@@ -39,10 +39,10 @@ Exercício 2:
 Exercício 3:
 
 
-1 - Crie a data classe Pessoa, que tenha como propriedades um nome e um CPF (Integer)
+1. Crie a data classe Pessoa, que tenha como propriedades um nome e um CPF (Integer)
 
-2 - Na classe Main, criar duas Pessoas com os mesmos atributos
+2. Na classe Main, criar duas Pessoas com os mesmos atributos
 
-3 - Faça a impressão do toString e hashCode
+3. Faça a impressão do toString e hashCode
 
-4 - Usando equals (==), comparar se a primeira Pessoa criada é igual a segunda.
+4. Usando equals (==), comparar se a primeira Pessoa criada é igual a segunda.
