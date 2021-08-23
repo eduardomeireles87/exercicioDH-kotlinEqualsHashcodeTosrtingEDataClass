@@ -16,6 +16,8 @@ Exercício 1:
 11. Refazer a comparação utilizando o equals (==). Qual é o resultado? O que mudou? Por quê?
 
 
+
+
 Exercício 2:
 
 
@@ -30,6 +32,8 @@ Exercício 2:
 9. Sobrescrever também a função toString e HashCode. Onde, toString fará o print do tamanho + preço e o hashCode utilizará o Tamanho como valor de retorno
 
 11. Refazer a comparação utilizando o equals. Qual é o resultado? O que mudou? Por quê?
+
+
 
 
 Exercício 3:
